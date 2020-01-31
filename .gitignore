@@ -1,0 +1,5 @@
+target/*
+*.iml
+.idea/*slashdot-zoo/
+.idea/
+scalable-datamining-class.iml
